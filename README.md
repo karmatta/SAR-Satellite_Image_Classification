@@ -1,1 +1,2 @@
-# SAR-Satellite_Image_Classification
+# SAR-image-classification
+Codes with CNN implementation to categorize SAR images
